@@ -1,0 +1,11 @@
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.exe
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.deps.json
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.runtimeconfig.json
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.runtimeconfig.dev.json
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.dll
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\bin\Debug\netcoreapp3.0\investment-calc.pdb
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\obj\Debug\netcoreapp3.0\investment-calc.csprojAssemblyReference.cache
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\obj\Debug\netcoreapp3.0\investment-calc.AssemblyInfoInputs.cache
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\obj\Debug\netcoreapp3.0\investment-calc.AssemblyInfo.cs
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\obj\Debug\netcoreapp3.0\investment-calc.dll
+C:\Users\The Academy\Desktop\C#\investment-calc\investment-calc\obj\Debug\netcoreapp3.0\investment-calc.pdb
